@@ -1,5 +1,5 @@
 # WebTechLab-MidtermProject
-A repository for the contents of the Midterm Project assigned in the course Web Systems and Technologies Laboratory.
+A repository created for the contents of the Midterm Project assigned in the course Web Systems and Technologies Laboratory.
 
 **"CMS"** Folder: Files related to the Content Management System will be placed in this folder.
 
