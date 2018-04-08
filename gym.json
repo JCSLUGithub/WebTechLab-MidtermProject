@@ -1,5 +1,4 @@
-{
-  "Gym": [
+[
     {
       "name":"CrossFit Baguio",
       "address":"Montinola Subdivision, Kisad Rd, Baguio",
@@ -109,4 +108,3 @@
       "lng":"120.5930"
     }
   ]
-}
