@@ -1,0 +1,246 @@
+{
+  "Equipment": [
+    {
+      "name":"Abdominal Bench",
+      "image":"../image/Abdominal Bench.jpg",
+      "description":"Where serious squatting takes place. In fitness and strength training, the squat exercise trains your fully body.  All serious strength training regiments should incorporate the squat station gym equipment."
+    },
+    {
+      "name":"Barbells",
+      "image":"../image/Barbells.jpg",
+      "description":"A complementary piece to the squat rack. A barbell is essential to strength training, it holds the freeweights, or sometimes the weights are attached to the ends."
+    },
+    {
+      "name":"Bench Press",
+      "image":"../image/Bench Press.png",
+      "description":"Used for upper body strength training exercises, where you are pushing weight upwards as you’re laying on your back. You want the perfect chest? This is one of the tools you use to train for that chest."
+    },
+    {
+      "name":"Cables and Pulleys",
+      "image":"../image/Cables and Pulleys.jpg",
+      "description":"Very diverse workout machine in the amount and types of exercises that can be performed by attaching grips to the end of the cables."
+    },
+    {
+      "name":"Calf Machine",
+      "image":"../image/Calf Machine.jpg",
+      "description":"Lifting the weights at the end by pushing upward with your feet by going on your toes. There are various types of these machines for working out, but the one pictured is by far the most common calf machine in the gym."
+    },
+    {
+      "name":"Dipping Bars",
+      "image":"../image/Dipping Bars.jpg",
+      "description":"Holding onto the handles, one with each hand, lower your body and lift yourself up. It’s important to adhere to good form as to avoid any potential shoulder injuries when dabbling with this gym equipment type."
+    },
+    {
+      "name":"Dumb Bells",
+      "image":"../image/Dumb Bells.jpg",
+      "description":"Pretty much the go-to gym equipment most people first think of when they think of bodybuilding. Varying in weight, but the same concept, a handle bar with weights on opposite ends. A must have free weight for any fitness regiment. There are even adjustable dumbbells with differing weights all in one piece."
+    },
+    {
+      "name":"Foam Roller",
+      "image":"../image/Foam Roller.jpg",
+      "description":"A perfect tool for reducing soreness, untying muscle knots, and increasing flexibility. The best way to use a foam roller is to incorporate it into your already existing fitness regiment, it will reduce stress on your body and help your body’s circulation."
+    },
+    {
+      "name":"Hack Squat Machine",
+      "image":"../image/Hack Squat Machine.jpg",
+      "description":"This machine combines the leg press machine and the squat machine for a super quad core combo. Another great piece of gym equipment to use on leg day."
+    },
+    {
+      "name":"Hammer Strength Machine",
+      "image":"../image/Hammer Strength Machine.png",
+      "description":"A favorite among athletes, this mechanic focuses on explosiveness."
+    },
+    {
+      "name":"Hyper Extension Bench",
+      "image":"../image/Hyper Extension Bench.jpg",
+      "description":"Standing on the gym machine in an angled position, facing downwards, move your upper body up and down. It not uncommon to hold a weight at your chest to increase the intensity, but be careful to not rush this Adding weights too quickly can and often does lead to injury during this type of exercise."
+    },
+    {
+      "name":"Incline Bench Press",
+      "image":"../image/Incline Bench Press.png",
+      "description":"Essentially an elevated bench press, but the elevation affects the muscle being targeted."
+    },
+    {
+      "name":"Kettle Bells",
+      "image":"../image/Kettle Bell.jpg",
+      "description":"Kettle bells have become very popular in the fitness world, there are a ton of different exercises you can do with kettle bells. Fitness enthusiasts are using them for strength training and cardio. Take a look at the video for different ways to use kettle bells."
+    },
+    {
+      "name":"Lat Pulldown Machine",
+      "image":"../image/Lat Pulldown Machine.png",
+      "description":"Used for strengthening your latissimus dorsi muscle, or lats as they are known. Pull downwards toward you, keeping your elbows and back straight. Google a picture of Bruce Lee and you’ll see the lats you’re capable of attaining with this machine."
+    },
+    {
+      "name":"Leg Abduction Machine",
+      "image":"../image/Leg Abduction Machine.jpg",
+      "description":"Opening and closing your legs, pushing the weight resistance outwards. A most popular gym machine among ladies, perfect for toning legs and butt."
+    },
+    {
+      "name":"Leg Curl Machine",
+      "image":"../image/Leg Curl Machine.jpg",
+      "description":"Laying on your stomach and facing the floor, lifting with your legs upwards towards your lower back. Sqeeuzing at the top and holding for a second or two, feel it in your hamstrings. A good tool to use for either toning down or bulking up your legs."
+    },
+    {
+      "name":"Leg Extension Machine",
+      "image":"../image/Leg Extension Machine.jpg",
+      "description":"Lifting the weights up with your quads, holding steady for a second or two once you fully extend at the top. Leg extension machines are the perfect gym equipment to use when you are rehabilitating from an injury or just trying to strength train your quads."
+    },
+    {
+      "name":"Leg Press Machine",
+      "image":"../image/Leg Press Machine.jpg",
+      "description":"Ultimate leg training machine. Laying down with you back against a makeshift wall, push the platform/weights upwards; do not lock your joints. Perfect machine to train legs with."
+    },
+    {
+      "name":"Pec Deck Machine",
+      "image":"../image/Pec Deck Machine.jpg",
+      "description":"This type of gym equipment was designed to isolate and work the chest. A favorite for beginner bodybuilders as it has a unique motion that feels good when performing."
+    },
+    {
+      "name":"Preacher Bench",
+      "image":"../image/Preacher Bench.png",
+      "description":"While seated, the preacher curl bench helps you isolate and train your biceps. A perfect place for beginners to start biceps training by utilizing a lighter barbell and lifting up and down; slowly bringing the weight down."
+    },
+    {
+      "name":"Pull Up Bar",
+      "image":"../image/Pull Up Bar.jpg",
+      "description":"The best tool for upper body exercise and strengthening. You can pull yourself up with any grip, though palms facing froward is the most popular one seen in demonstrations. Different grips and hand positions can affect different muscles. You pull yourself up, until your chin is over the bar."
+    },
+    {
+      "name":"Smith Machine",
+      "image":"../image/Smith Machine.jpg",
+      "description":"A squat assisting workout machine. Think of it as the squat rack that helps you when you don’t have anyone to spot you. Very good machine to use for practicing your squatting form. A go to machine for back strengthening after an injury of sort."
+    },
+    {
+      "name":"Squat Rack",
+      "image":"../image/Squat Rack.jpg",
+      "description":"Where serious squatting takes place. In fitness and strength training, the squat exercise trains your fully body.  All serious strength training regiments should incorporate the squat station gym equipment."
+    },
+    {
+      "name":"Stability Ball",
+      "image":"../image/Stability Ball.jpg",
+      "description":"The most versatile tool for fitness enthusiasts, there are countless exercises to do with an exercise ball. A perfect thing to use this stability ball for is rehabilitation of injuries, stretching, and balance. Typically fitness enthusiasts have this tool in their home gyms, garage gym, or just laying around the house and use it every chance they get."
+    },
+    {
+      "name":"Wall Ball",
+      "image":"../image/Wall Ball.jpg",
+      "description":"Combined with a sit-up while throwing this ball against the ball and catching it; going all the way down again, and then up once more, and so on repeatedly. Perfect for anyone focusing or wanting to incorporate cardio and aerobic exercise into their routine."
+    },
+  ],
+
+"Gyms": [
+    {
+      "name":"CrossFit Baguio",
+      "address":"Montinola Subdivision, Kisad Rd, Baguio",
+      "number":"0977 642 2328",
+      "openinghrs":"",
+      "lat":"16.4038",
+      "lng":"120.5941"
+    },
+    {
+      "name":"Fitness Edge Health and Fitness Club",
+      "address":"Sunset Deck Terrace, SM Baguio, Luneta Hill Dr, Baguio, 2600 Benguet",
+      "number":"0974 446 8892",
+      "openinghrs":"",
+      "lat":"16.4090",
+      "lng":"120.5993"
+    },
+    {
+      "name":"Altitude Gym",
+      "address":"2nd Floor, Mt. Crest Hotel, Legarda Rd, Baguio, Benguet",
+      "lat":"45.4469",
+      "lng":"75.7369"
+    },
+    {
+      "name":"Lakay Central Gym",
+      "address":"Gym in Baguio, Philippines",
+      "number":"0907 693 5608",
+      "lat":"16.4142",
+      "lng":"120.5941"
+    },
+    {
+      "name":"Stallion Fitness Gym",
+      "address":"138 Session Road, Baguio City, Benguet",
+      "number":"0974 304 4970",
+      "lat":"16.4126",
+      "lng":"120.5974"
+    },
+    {
+      "name":"NCH Gym",
+      "address":"New Lucban Rd, Baguio, Benguet",
+      "openinghrs":"",
+      "lat":"16.4225",
+      "lng":"120.5957"
+    },
+    {
+      "name":"Endless Gym & Fitness Center",
+      "address":"3rd Floor Porta Vaga Commercial Center, Session Road, Baguio City, Benguet",
+      "number":"0974 446 9516",
+      "lat":"16.4120",
+      "lng":"120.5986"
+    },
+    {
+      "name":"Benguet Fitness Center",
+      "address":"95A, PRH Building, Upper Bonifacio St, Barangay ABCR, Baguio, 2600 Benguet",
+      "number":"0929 303 6999",
+      "openinghrs":"",
+      "lat":"16.4190",
+      "lng":"120.5967"
+    },
+    {
+      "name":"Tauruz Fitness Gym",
+      "address":"Rm. 501 La Azotea bldg. Session road, Baguio, 2600 Benguet",
+      "number":"0915 995 2059",
+      "openinghrs":"",
+      "lat":"16.4118",
+      "lng":"120.5981"
+    },
+    {
+      "name":"St. Vincent Gym",
+      "address":"Brower Rd, Baguio, Benguet",
+      "lat":"16.4150",
+      "lng":"120.5879"
+    },
+    {
+      "name":"Muscleaneous Fitness Gym (branch)",
+      "address":"Upper Bonifacio St, Baguio, Benguet",
+      "lat":"16.4182",
+      "lng":"120.5964"
+    },
+    {
+      "name":"Mix Fitness Center",
+      "address":"Mabini St, Baguio, Benguet",
+      "number":"0977 174 4898",
+      "openinghrs":"",
+      "lat":"16.4140",
+      "lng":"120.5967"
+    },
+    {
+      "name":"Criseder Fitness Gym",
+      "address":"Ben Palispis Hwy, Baguio, Benguet",
+      "number":"0910 569 9596",
+      "openinghrs":"",
+      "lat":"16.3893",
+      "lng":"120.5748"
+    },
+    {
+      "name":"Texas Instruments Baguio Gym",
+      "address":"Baguio, Benguet",
+      "openinghrs":"",
+      "lat":"16.4182",
+      "lng":"120.5964"
+    },
+    {
+      "name":"Lakay La Trinidad Gym",
+      "address":"Pine Valley Plaza, Baguio - La Trinidad - Bontoc Rd, La Trinidad, 2601 Benguet",
+      "number":"0929 496 5527",
+      "lat":"16.4415",
+      "lng":"120.5930"
+    }
+  ],
+"Baguio": [
+  {
+    "lat":"16.4023",
+    "lng":"120.5960"
+  }
+]
+}
