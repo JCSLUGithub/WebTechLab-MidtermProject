@@ -1,4 +1,5 @@
-[
+{
+  "equipment": [
     {
       "name":"Abdominal Bench",
       "image":"../image/Abdominal Bench.jpg",
@@ -125,3 +126,4 @@
       "description":"Combined with a sit-up while throwing this ball against the ball and catching it; going all the way down again, and then up once more, and so on repeatedly. Perfect for anyone focusing or wanting to incorporate cardio and aerobic exercise into their routine."
     },
   ]
+}
