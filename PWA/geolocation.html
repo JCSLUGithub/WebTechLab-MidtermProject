@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ #map {
+ width:100%;
+ height:1080px;
+ }
+ </style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+	function initMap(){
+    	var options = {
+        zoom:15,
+        center:{lat:16.4023, lng:120.5960}
+        }
+        
+        
+        var map = new google.maps.Map(document.getElementById('map'), options);
+        addMarker({lat:16.4117,lng:120.5905})
+        addMarker({lat:16.4142,lng:120.5941})
+        addMarker({lat:16.4090,lng:120.5993})
+        addMarker({lat:16.4126,lng:120.5974})
+        addMarker({lat:16.4118,lng:120.5981})
+        addMarker({lat:16.4120,lng:120.5986})
+  		addMarker({lat:16.4140,lng:120.5967})
+        addMarker({lat:16.4225,lng:120.5957})
+        addMarker({lat:16.4038,lng:120.5941})
+        addMarker({lat:16.4182,lng:120.5964})
+        addMarker({lat:16.3824,lng:120.6042})
+        addMarker({lat:16.4150,lng:120.5879})
+        addMarker({lat:16.4030,lng:120.6055})
+        addMarker({lat:16.4210,lng:120.5967})
+
+        function addMarker(coords) {
+        var marker = new google.maps.Marker({
+        position:coords,
+        map:map
+        });
+        }
+
+        
+    }
+   </script>
+<!--<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=initMap">
+</script>-->
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAMzXsclbeZ6wWqS0AtEWa0DpHGmHNWdq8&callback=initMap"
+  type="text/javascript"></script>
+</body>
+
+</html>
