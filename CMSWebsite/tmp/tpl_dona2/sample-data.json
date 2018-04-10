@@ -1,0 +1,113 @@
+{
+  "developer": [
+    {
+      "id": "charity",
+      "name": "Charity",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/charity.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/charity/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_charity_sample_data_j3x.zip",
+      "tags": []
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/business.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/business/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_business_sample_data_j3x.zip",
+      "tags": []
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/portfolio.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/portfolio/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_portfolio_sample_data_j3x.zip",
+      "tags": []
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/education.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/education/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_education_sample_data_j3x.zip",
+      "tags": []
+    },
+    {
+      "id": "religion",
+      "name": "Religion",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/religion.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/religion/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_religion_sample_data_j3x.zip",
+      "tags": []
+    },
+    {
+      "id": "politics",
+      "name": "Politics",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/political.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/politics/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_politics_sample_data_j3x.zip",
+      "tags": []
+    }
+  ],
+  "individual": [
+    {
+      "id": "charity",
+      "name": "Charity",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/charity.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/charity/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_charity_sample_data_j3x.zip",
+      "tags": []
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/business.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/business/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_business_sample_data_j3x.zip",
+      "tags": []
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/portfolio.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/portfolio/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_portfolio_sample_data_j3x.zip",
+      "tags": []
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/education.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/education/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_education_sample_data_j3x.zip",
+      "tags": []
+    },
+    {
+      "id": "religion",
+      "name": "Religion",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/religion.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/religion/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_religion_sample_data_j3x.zip",
+      "tags": []
+    },
+    {
+      "id": "politics",
+      "name": "Politics",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/political.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/politics/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_politics_sample_data_j3x.zip",
+      "tags": []
+    }
+  ],
+  "free": [
+    {
+      "id": "charity",
+      "name": "Charity",
+      "thumbnail": "http://demo.joomlashine.com/media/joomla-templates/jsn_dona_2/charity.jpg",
+      "demo": "http://demo.joomlashine.com/joomla-templates/jsn_dona_2/pro/charity/index.php",
+      "download": "https://joomlashine.com/files/downloads/sample-data/jsn_dona_2_pro_charity_sample_data_j3x.zip",
+      "tags": []
+    }
+  ]
+}
+
